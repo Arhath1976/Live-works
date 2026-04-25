@@ -1,1 +1,2 @@
 rag files and requirements
+This apps reads the user's documents, and answers the user's question according to the file they provided. Uses Ollama's llm.
